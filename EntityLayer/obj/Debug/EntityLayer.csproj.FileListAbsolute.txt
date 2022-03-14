@@ -1,0 +1,14 @@
+C:\Users\kerem\OneDrive\Masaüstü\MvcProjeKampi\MvcProjeKampi\EntityLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\kerem\OneDrive\Masaüstü\MvcProjeKampi\MvcProjeKampi\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\kerem\OneDrive\Masaüstü\MvcProjeKampi\MvcProjeKampi\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\kerem\OneDrive\Masaüstü\MvcProjeKampi\MvcProjeKampi\EntityLayer\bin\Debug\EntityFramework.dll
+C:\Users\kerem\OneDrive\Masaüstü\MvcProjeKampi\MvcProjeKampi\EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kerem\OneDrive\Masaüstü\MvcProjeKampi\MvcProjeKampi\EntityLayer\bin\Debug\EntityFramework.xml
+C:\Users\kerem\OneDrive\Masaüstü\MvcProjeKampi\MvcProjeKampi\EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kerem\OneDrive\Masaüstü\MvcProjeKampi\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\kerem\OneDrive\Masaüstü\MvcProjeKampi\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\kerem\OneDrive\Masaüstü\MvcProjeKampi\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.csproj.CopyComplete
+C:\Users\kerem\OneDrive\Masaüstü\MvcProjeKampi\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\kerem\OneDrive\Masaüstü\MvcProjeKampi\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.pdb
+C:\Users\kerem\OneDrive\Masaüstü\MvcProjeKampi\MvcProjeKampi\EntityLayer\bin\Debug\FluentValidation.dll
+C:\Users\kerem\OneDrive\Masaüstü\MvcProjeKampi\MvcProjeKampi\EntityLayer\bin\Debug\FluentValidation.xml
